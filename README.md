@@ -1,6 +1,6 @@
 # Digital Stack
 
-Hello, I'm Robert, founder of Digital Stack based in Providence, RI. Since 2017, I've been working passionately in the tech industry and found my niche in software and website development. Digital Stack is my vision turned reality, where we focus on creating outstanding digital solutions for a diverse range of clients.
+Hello, I'm Robert, founder of Digital Stack based in Warwick, RI. Since 2017, I've been working passionately in the tech industry and found my niche in software and website development. Digital Stack is my vision turned reality, where we focus on creating outstanding digital solutions for a diverse range of clients.
 
 ## Our Expertise
 
