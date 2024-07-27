@@ -1,34 +1,27 @@
-# Digital Stack
+Hello, I'm Robert, a freelance developer based in Warwick, RI. Since 2017, I've been working passionately in the tech industry, specializing in software and website development. I focus on creating outstanding digital solutions for a diverse range of clients.
 
-Hello, I'm Robert, founder of Digital Stack based in Warwick, RI. Since 2017, I've been working passionately in the tech industry and found my niche in software and website development. Digital Stack is my vision turned reality, where we focus on creating outstanding digital solutions for a diverse range of clients.
+## My Expertise
 
-## Our Expertise
+I have experience and expertise in the following areas:
 
-At Digital Stack, we have experience and expertise in the following areas:
+- **Frontend Development:** Building intuitive and eye-catching user interfaces using popular technologies such as React and Next.js.
+- **Backend Development:** Ensuring smooth server-side operations using Node.js and TypeScript, making websites and software both responsive and robust.
+- **Database Management:** Handling data efficiently with PostgreSQL and managing database operations using AWS RDS.
+- **Web Design:** Designing visually appealing and easy-to-navigate websites using Tailwind CSS.
+- **Cloud Services:** Utilizing AWS for reliable and scalable cloud computing services.
+- **ORM:** Ensuring seamless interaction with databases using Prisma.
+- **API Development:** Creating secure and scalable APIs to support complex web and mobile applications.
 
-• Frontend Development: We build intuitive and eye-catching user interfaces using popular technologies such as React and Next.js.
+## My Go-to Stack
 
-• Backend Development: We ensure smooth server-side operations with TypeScript, ensuring our websites and software are both responsive and robust.
+Currently, I love working with the following technologies:
 
-• Database Management: We handle data efficiently with MongoDB, MySQL, and PostgreSQL.
-
-• Web Design: We design visually appealing and easy-to-navigate websites using Tailwind.
-
-• Cloud Services: We utilize AWS for reliable and scalable cloud computing services.
-
-• ORM: We ensure seamless interaction with our databases using Prisma.
-
-• Database Hosting: We provide resilient, scalable and secure database hosting using PlanetScale.
-
-## Our Go-to Stack
-
-Currently, we love working with the following technologies:
-
-• TypeScript
-• Prisma
-• Tailwind
-• PlanetScale
-• Next.js
+- TypeScript
+- Prisma
+- Tailwind CSS
+- RDS
+- Next.js
+- Amazon Web Services
 
 ## Get In Touch
 
