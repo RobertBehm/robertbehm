@@ -7,9 +7,7 @@ I have experience and expertise in the following areas:
 - **Frontend Development:** Building intuitive and eye-catching user interfaces using popular technologies such as React and Next.js.
 - **Backend Development:** Ensuring smooth server-side operations using Node.js and TypeScript, making websites and software both responsive and robust.
 - **Database Management:** Handling data efficiently with PostgreSQL and managing database operations using AWS RDS.
-- **Web Design:** Designing visually appealing and easy-to-navigate websites using Tailwind CSS.
 - **Cloud Services:** Utilizing AWS for reliable and scalable cloud computing services.
-- **ORM:** Ensuring seamless interaction with databases using Prisma.
 - **API Development:** Creating secure and scalable APIs to support complex web and mobile applications.
 
 ## My Go-to Stack
@@ -17,7 +15,6 @@ I have experience and expertise in the following areas:
 Currently, I love working with the following technologies:
 
 - TypeScript
-- Prisma
 - Tailwind CSS
 - RDS
 - Next.js
