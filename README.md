@@ -11,15 +11,14 @@ I have experience and expertise in the following areas:
 - **API Development:** Creating secure and scalable APIs to support complex web and mobile applications.
 
 ## My Go-to Stack
-
-Currently, I love working with the following technologies:
-
 - TypeScript
 - Tailwind CSS
+- PostgresSql
 - RDS
 - Next.js
 - Node.js
 - Amazon Web Services
+- Docker & Kubernetes
 
 ## Get In Touch
 
