@@ -18,6 +18,7 @@ Currently, I love working with the following technologies:
 - Tailwind CSS
 - RDS
 - Next.js
+- Node.js
 - Amazon Web Services
 
 ## Get In Touch
