@@ -1,4 +1,4 @@
-Hello, I'm Robert, a freelance developer based in Punta Gorda, FLorida. Since 2017, I've been working passionately in the tech industry, specializing in software and website development. I focus on creating outstanding digital solutions for a diverse range of clients.
+Hello, I'm Robert, a freelance developer based in Punta Gorda, FLorida. 
 
 ## My Expertise
 
